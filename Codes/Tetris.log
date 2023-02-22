@@ -1,0 +1,16 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F87K22 -DL -O11111114 -fo16 -N"C:\Users\Özge\Desktop\lecture\micro-codes\Tetris.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"C:\Users\Özge\Desktop\lecture\micro-codes\" -SP"C:\Users\Özge\Desktop\lecture\micro-codes\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" "Tetris.c" "images.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CType.mcl" "__Lib_CString.mcl" "__Lib_CStdlib.mcl" "__Lib_CMath.mcl" "__Lib_Conversions.mcl" "__Lib_Time.mcl" "__Lib_Trigonometry.mcl" "__Lib_Keypad4x4.mcl" "__Lib_EEPROM_1024.mcl" "__Lib_SPI_c345d654.mcl" "__Lib_UART_c67g12.mcl" "__Lib_PortExpander.mcl" "__Lib_GlcdFonts.mcl" "__Lib_Glcd.mcl" "__Lib_LcdConsts.mcl" "__Lib_Lcd.mcl" "__Lib_T6963C.mcl" "__Lib_SPIGlcd.mcl"	 
+hint: 0	1139	Available RAM: 3841 [bytes], Available ROM: 131072 [bytes]	 
+diagnostics: 0	122	Compilation Started	__t6963c.h
+warning: 5363	1503	Result is not defined in function: 'bluetooth'	Tetris.c
+warning: 5402	1509	Generated baud rate is 9615 bps (error = 0.16 percent)	Tetris.c
+warning: 5627	1503	Result is not defined in function: 'main'	Tetris.c
+diagnostics: 5627	123	Compiled Successfully	Tetris.c
+diagnostics: 0	122	Compilation Started	images.c
+diagnostics: 0	123	Compiled Successfully	images.c
+diagnostics: 0	127	All files Compiled in 2735 ms	 
+hint: 0	1144	Used RAM (bytes): 2411 (63%)  Free RAM (bytes): 1430 (37%)	Used RAM (bytes): 2411 (63%)  Free RAM (bytes): 1430 (37%)
+hint: 0	1144	Used ROM (bytes): 120620 (92%)  Free ROM (bytes): 10452 (8%)	Used ROM (bytes): 120620 (92%)  Free ROM (bytes): 10452 (8%)
+diagnostics: 0	125	Project Linked Successfully	Tetris.mcppi
+diagnostics: 0	128	Linked in 312 ms	 
+diagnostics: 0	129	Project 'Tetris.mcppi' completed: 3109 ms	 
+diagnostics: 0	103	Finished successfully: 19 May 2022, 23:22:15	Tetris.mcppi
